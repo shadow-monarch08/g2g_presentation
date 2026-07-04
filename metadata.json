@@ -1,0 +1,6 @@
+{
+  "name": "Pop-Art Presentation",
+  "description": "A highly reliable, single-page presentation web app featuring an automated 12-second interval-scrolling manager and a vibrant pop-art theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
